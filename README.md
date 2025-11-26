@@ -31,7 +31,9 @@ A simple and effective computer vision project to detect and count multiple obje
 
 * Count coins based on number of contours detected
 
-## | Technology  | Purpose                              |
+## Tech Stack
+  
+| Technology     | Purpose                              |
 | -------------- | ------------------------------------ |
 | **Python**     | Main programming language            |
 | **OpenCV**     | Image processing & contour detection |
@@ -61,7 +63,7 @@ gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 plt.imshow(gray, cmap='gray')
 ```
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Count-Number-Of-Objects-In-An-Image-Using-OpenCV/blob/b269644355fd44707e5114ca67c6975f6834483b/i1.png)
 
 For counting, we have to detect the edges but before detecting the edges we have to make the image blur to avoid the noises. Use "cv2.GaussianBlur(image-name, Kernal size, std. deviation)". 
 ```python
