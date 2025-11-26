@@ -104,7 +104,7 @@ Printing the result
  Printing the result
 ```
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Count-Number-Of-Objects-In-An-Image-Using-OpenCV/blob/a458468e92e3b34026f42a0a82ee2157636d0190/i6.png)
 
 ## ⭐ Support
 If you like this project, please ⭐ star the repository and share it!
