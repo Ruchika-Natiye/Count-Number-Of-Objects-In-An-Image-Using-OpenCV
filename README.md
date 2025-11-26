@@ -97,7 +97,7 @@ cv2.drawContours(rgb, cnt, -1, (0, 255, 0), 2)
 plt.imshow(rgb)
 ```
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Count-Number-Of-Objects-In-An-Image-Using-OpenCV/blob/a47aaade48b4f9c934fa2f068ff3dc06efff6eb8/i5.png)
 
 Printing the result
 ```python
