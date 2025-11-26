@@ -71,7 +71,7 @@ blur = cv2.GaussianBlur(gray, (11, 11), 0)
 plt.imshow(blur, cmap='gray')
 ```
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Count-Number-Of-Objects-In-An-Image-Using-OpenCV/blob/24435cb67fdc89d6e2a7404b27bb2f1cc68b2317/i2.png)
 
 Now we will detect edges using a canny algorithm, 2nd & 3rd parameters in cv2.canny() function are threshold values. a value between 30 & 150 are consider as an edge for this image.
 ```python
