@@ -79,7 +79,7 @@ canny = cv2.Canny(blur, 30, 150, 3)
 plt.imshow(canny, cmap='gray')
 ```
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Count-Number-Of-Objects-In-An-Image-Using-OpenCV/blob/718d6b8e2c193866926638a576b344b298637d0d/i3.png)
 
 We can see that edges are not connected. We need to connect the edges, have to make more thiker & visible. 
 ```python
