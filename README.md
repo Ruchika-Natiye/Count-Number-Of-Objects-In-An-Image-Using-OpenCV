@@ -87,7 +87,7 @@ dilated = cv2.dilate(canny, (1, 1), iterations=0)
 plt.imshow(dilated, cmap='gray')
 ```
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Count-Number-Of-Objects-In-An-Image-Using-OpenCV/blob/db4673750f0439574870f5df3bca4bbf1f67178b/i4.png)
 
 Now we have to calculate the contour in the image & convert the image into RGB from BGR & then draw the contours.
 ```python
